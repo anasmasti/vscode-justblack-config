@@ -2,8 +2,8 @@
 
 
 
-
-"editor.tokenColorCustomizations": {
+```json
+ "editor.tokenColorCustomizations": {
     "[Just Black]": {
       "textMateRules": [
         {
@@ -33,7 +33,7 @@
         {
           "scope": "variable.other.readwrite",
           "settings": {
-            "foreground": "#cfb5fa"
+            "foreground": "#d4d3d3"
           }
         },
         {
@@ -45,7 +45,8 @@
         {
           "scope": "support.function",
           "settings": {
-            "foreground": "#fafc84"
+            "foreground": "#fafc84",
+            "fontStyle": "italic bold"
           }
         },
         {
@@ -57,7 +58,7 @@
         {
           "scope": "variable.parameter",
           "settings": {
-            "foreground": "#cfb5fa"
+            "foreground": "#d4d3d3"
           }
         },
         {
@@ -84,5 +85,33 @@
             "foreground": "#a461fc"
           }
         },
+        {
+          "scope": "meta.jsx.children",
+          "settings": {
+            "foreground": "#e4e2e2"
+          }
+        },
+        {
+          "scope": "storage.type",
+          "settings": {
+            "foreground": "#6ab9fa",
+            "fontStyle": "italic bold"
+          }
+        },
+        {
+          "scope": "variable.object.property",
+          "settings": {
+            "foreground": "#BB77FF"
+          }
+        },
+        {
+          "scope": "storage.type.class",
+          "settings": {
+            "foreground": "#6ab9fa",
+            "fontStyle": "italic bold"
+          }
+        },
       ]
     }
+  },
+```
