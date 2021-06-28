@@ -80,12 +80,6 @@
           }
         },
         {
-          "scope": "keyword.control.import",
-          "settings": {
-            "foreground": "#a461fc"
-          }
-        },
-        {
           "scope": "meta.jsx.children",
           "settings": {
             "foreground": "#e4e2e2"
@@ -111,7 +105,28 @@
             "fontStyle": "italic bold"
           }
         },
+        {
+          "scope": "keyword.control.import",
+          "settings": {
+            "foreground": "#a461fc",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "keyword.control.export",
+          "settings": {
+            "foreground": "#a461fc",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "keyword.control.default",
+          "settings": {
+            "foreground": "#a461fc",
+            "fontStyle": "bold"
+          }
+        }
       ]
     }
-  },
+  }
 ```
