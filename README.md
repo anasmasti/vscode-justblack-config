@@ -15,13 +15,13 @@
         {
           "scope": "string.quoted.double",
           "settings": {
-            "foreground": "#fcd69ce3"
+            "foreground": "#9cfc9ce3"
           }
         },
         {
           "scope": "string.quoted.single",
           "settings": {
-            "foreground": "#fcd69ce3"
+            "foreground": "#9cfc9ce3"
           }
         },
         {
