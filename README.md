@@ -1,4 +1,4 @@
-# My vscode Just Black configuration ✨
+# My VScode Just Black configuration ✨
 
 
 
@@ -15,13 +15,13 @@
         {
           "scope": "string.quoted.double",
           "settings": {
-            "foreground": "#9cfc9ce3"
+            "foreground": "#ffdfb0e3"
           }
         },
         {
           "scope": "string.quoted.single",
           "settings": {
-            "foreground": "#9cfc9ce3"
+            "foreground": "#ffdfb0e3"
           }
         },
         {
