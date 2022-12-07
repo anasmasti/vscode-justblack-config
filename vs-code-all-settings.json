@@ -1,0 +1,193 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "editor.fontFamily": "'Operator Mono Lig'",
+  "editor.fontSize": 16,
+  "editor.renderWhitespace": "all",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tokenColorCustomizations": {
+    "[Just Black]": {
+      "textMateRules": [
+        {
+          "scope": "entity.name.tag.html",
+          "settings": {
+            "foreground": "#fc3f78"
+          }
+        },
+        {
+          "scope": "string.quoted.double",
+          "settings": {
+            "foreground": "#ffdfb0e3"
+          }
+        },
+        {
+          "scope": "string.quoted.single",
+          "settings": {
+            "foreground": "#ffdfb0e3"
+          }
+        },
+        {
+          "scope": "entity.name.function",
+          "settings": {
+            "foreground": "#6efc99"
+          }
+        },
+        {
+          "scope": "variable.other.readwrite",
+          "settings": {
+            "foreground": "#d4d3d3"
+          }
+        },
+        {
+          "scope": "variable.language.this",
+          "settings": {
+            "foreground": "#fc3f78"
+          }
+        },
+        {
+          "scope": "support.function",
+          "settings": {
+            "foreground": "#fafc84",
+            "fontStyle": "italic bold"
+          }
+        },
+        {
+          "scope": "constant.numeric.decimal",
+          "settings": {
+            "foreground": "#fafc84"
+          }
+        },
+        {
+          "scope": "variable.parameter",
+          "settings": {
+            "foreground": "#d4d3d3"
+          }
+        },
+        {
+          "scope": "keyword.control",
+          "settings": {
+            "foreground": "#fc3f78"
+          }
+        },
+        {
+          "scope": "entity.other.attribute-name.class",
+          "settings": {
+            "foreground": "#6efc99"
+          }
+        },
+        {
+          "scope": "constant.numeric",
+          "settings": {
+            "foreground": "#fafc84"
+          }
+        },
+        {
+          "scope": "meta.jsx.children",
+          "settings": {
+            "foreground": "#e4e2e2"
+          }
+        },
+        {
+          "scope": "storage.type",
+          "settings": {
+            "foreground": "#6ab9fa",
+            "fontStyle": "italic bold"
+          }
+        },
+        {
+          "scope": "variable.object.property",
+          "settings": {
+            "foreground": "#BB77FF"
+          }
+        },
+        {
+          "scope": "storage.type.class",
+          "settings": {
+            "foreground": "#6ab9fa",
+            "fontStyle": "italic bold"
+          }
+        },
+        {
+          "scope": "keyword.control.import",
+          "settings": {
+            "foreground": "#a461fc",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "keyword.control.export",
+          "settings": {
+            "foreground": "#a461fc",
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "keyword.control.default",
+          "settings": {
+            "foreground": "#a461fc",
+            "fontStyle": "bold"
+          }
+        }
+      ]
+    }
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.rulers": [],
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.sideBar.location": "right",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.enableSmartCommit": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "dart.flutterSdkPath": "/Users/macinfo/flutter",
+  "editor.fontLigatures": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {},
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#000000",
+    "activityBar.inactiveForeground": "#444444",
+    "activityBar.foreground": "#6b02ff"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Just Black"
+}
