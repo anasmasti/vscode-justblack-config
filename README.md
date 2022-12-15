@@ -1,4 +1,4 @@
-# My VScode Just Black theme settings 🚀
+# My Visual Studio Code Just Black theme settings 🚀
 
 
 
